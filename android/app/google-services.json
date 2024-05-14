@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "503835855501",
+    "firebase_url": "https://chatapp-98a1c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-98a1c",
+    "storage_bucket": "chatapp-98a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503835855501:android:489018801cf33f478970c4",
+        "android_client_info": {
+          "package_name": "com.convoconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XrdE8w-aWyGGgciXt2cOvN8Tfij67h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
