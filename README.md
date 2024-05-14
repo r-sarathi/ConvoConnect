@@ -1,10 +1,13 @@
 This React Native application provides a streamlined user experience for authenticating users and facilitating simple chatting with friends. Users can securely log in, search for friends by name, and initiate conversations with them. The chat feature supports text messages as well as image sharing. Leveraging React Native's cross-platform capabilities, the app ensures a seamless experience across iOS and Android devices.
 
-## Key Features:
+# Key Features:
 - User Authentication: Secure user authentication process for accessing the app's features.
 - Friend Search: Search functionality to find friends by their name or username.
 - Chatting: Real-time messaging feature allowing users to exchange text messages with their friends.
 - Image Sharing: Capability to share images within chat conversations, enhancing communication possibilities.
+
+# Demo
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 # Getting Started
 
