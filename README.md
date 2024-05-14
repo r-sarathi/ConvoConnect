@@ -7,7 +7,7 @@ This React Native application provides a streamlined user experience for authent
 - Image Sharing: Capability to share images within chat conversations, enhancing communication possibilities.
 
 # Demo
-[<img src="https://unsplash.com/photos/silhouette-photo-of-person-holding-smartphone-pb_lF8VWaPU" width="100%">](https://drive.google.com/file/d/1r0bec1LEq1Gi2aqwtFxxRi55H5lucc2K/view?usp=sharing)
+[<img src="/assets/img.jpg" width="100%">](https://drive.google.com/file/d/1r0bec1LEq1Gi2aqwtFxxRi55H5lucc2K/view?usp=sharing)
 
 # Getting Started
 
